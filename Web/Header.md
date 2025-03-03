@@ -11,6 +11,9 @@ Bài cho ta hint là tương tác với Header
 
 <img src="https://github.com/user-attachments/assets/6418d6c7-f4c6-46a1-804c-d369746c3cd5" width="400">
 
-  - X-Forwarded-for: đây là một HTTP header dùng để xác định địa chỉ IP client khi request qua proxy....
+  - X-Forwarded-for: đây là một HTTP header dùng để xác định địa chỉ IP client khi request qua proxy...., ta set thành IP 194.54.23.12
+  - Date: Bài yêu cầu ta set thứ ngày tháng về năm 2023, ta chọn một mốc thời gian bất kỳ với format:  Thứ, ngày tháng năm 00:00:00 GMT
+  - Accepted-Language: ỏe đây ta chỉnh về tiếng pháp, cú pháp là "fr".
 
-<img src=""
+  
+EHCTF{H3adeR_iS_CRAzy_R1gH777T_262c7963c349}
