@@ -15,5 +15,6 @@ Bài cho ta hint là tương tác với Header
   - Date: Bài yêu cầu ta set thứ ngày tháng về năm 2023, ta chọn một mốc thời gian bất kỳ với format:  Thứ, ngày tháng năm 00:00:00 GMT
   - Accepted-Language: ỏe đây ta chỉnh về tiếng pháp, cú pháp là "fr".
 
+<img src="https://github.com/user-attachments/assets/dd0ec7e7-3d9d-4a5b-9c7d-9f57328f99d3" width="400">
   
 EHCTF{H3adeR_iS_CRAzy_R1gH777T_262c7963c349}
